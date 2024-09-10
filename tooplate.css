@@ -125,7 +125,7 @@ ul.tm-home-list:not(.browser-default) {
 
 #register {
   padding-top: 180px;
-  background-image: url(../img/input-bg-01.jpg);
+  background-image: url(input-bg-04.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 30%;
@@ -140,7 +140,7 @@ ul.tm-home-list:not(.browser-default) {
   color: black;
 }
 
-#login ,#signup {
+#login {
   background-image: url(input-bg-04.jpg);
   background-size: cover;
   background-repeat: no-repeat;
