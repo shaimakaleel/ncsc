@@ -140,7 +140,7 @@ ul.tm-home-list:not(.browser-default) {
   color: black;
 }
 
-#login {
+#login ,#signup {
   background-image: url(input-bg-04.jpg);
   background-size: cover;
   background-repeat: no-repeat;
