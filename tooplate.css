@@ -117,7 +117,7 @@ ul.tm-home-list:not(.browser-default) {
 }
 
 #survey {
-  background-image: url(input-bg-06.jpg);
+  background-image: url(input-bg-04.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center top;
@@ -133,7 +133,7 @@ ul.tm-home-list:not(.browser-default) {
 }
 
 #application {
-  background-image: url(../img/input-bg-03.jpg);
+  background-image: url(input-bg-04.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center top;
