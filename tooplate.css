@@ -110,14 +110,14 @@ ul.tm-home-list:not(.browser-default) {
 }
 
 #home {
-  background-image: url(../img/input-bg-05.jpg);
+  background-image: url(input-bg-05.jpg);
   background-size:cover;
   background-repeat: no-repeat;
   background-position: center top;
 }
 
 #survey {
-  background-image: url(../img/input-bg-06.jpg);
+  background-image: url(input-bg-06.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center top;
@@ -141,7 +141,7 @@ ul.tm-home-list:not(.browser-default) {
 }
 
 #login {
-  background-image: url(../img/input-bg-04.jpg);
+  background-image: url(input-bg-04.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
